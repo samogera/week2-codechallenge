@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/week2-codechallenge/static/css/main.0e14cc37.css",
+    "main.js": "/week2-codechallenge/static/js/main.1ce84078.js",
+    "index.html": "/week2-codechallenge/index.html",
+    "main.0e14cc37.css.map": "/week2-codechallenge/static/css/main.0e14cc37.css.map",
+    "main.1ce84078.js.map": "/week2-codechallenge/static/js/main.1ce84078.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e14cc37.css",
+    "static/js/main.1ce84078.js"
+  ]
+}
